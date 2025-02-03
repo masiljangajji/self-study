@@ -9,6 +9,7 @@ body:
         - [ ] 1일 1커밋
         - [ ] 1일 1산책
         - [ ] 1주 1포스팅
+        - [ ] 2주 1강의
         - [ ] 1달 1독서
     validations:
       required: true
