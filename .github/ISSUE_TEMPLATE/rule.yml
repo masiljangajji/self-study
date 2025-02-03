@@ -5,6 +5,11 @@ body:
     attributes:
       label: ✅ 작업할 내용
       description: 할 일을 체크박스 형태로 작성하세요.
+      value: |
+        - [ ] 1일 1커밋
+        - [ ] 1일 1산책
+        - [ ] 1주 1포스팅
+        - [ ] 1달 1독서
     validations:
       required: true
   - type: textarea
