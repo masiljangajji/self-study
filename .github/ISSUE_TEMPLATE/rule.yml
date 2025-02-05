@@ -15,5 +15,9 @@ body:
       required: true
   - type: textarea
     attributes:
+      label: 🔥 Issue
+      description: 참고할 사항이 있다면 입력하세요.
+  - type: textarea
+    attributes:
       label: 🙋🏻 참고 자료
       description: 참고할 자료가 있다면 입력하세요.
