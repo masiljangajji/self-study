@@ -1,20 +1,39 @@
-name: "오늘도 생각했나요"
-description: "규칙 규칙 규칙."
+name: "🌱 오늘도 생각했나요"
+description: "하루의 성장 기록을 남기고, 꾸준함을 쌓아가기 위한 챌린지 템플릿"
+
 body:
   - type: textarea
     attributes:
-      label: ✅ 작업할 내용
-      description: 할 일을 체크박스 형태로 작성하세요.
+      label: ✅ 오늘의 문제 풀이 & 할 일
+      description: 오늘 진행할 문제/작업을 체크박스로 관리하세요.
       value: |
-        - [ ] 1일 1커밋
+        ### 📘 알고리즘
+        - [ ] PS 3 Solve  
+
+        ### 💻 백엔드 개발
+        - [ ] Java / Spring 1 Commit  
+
+        ### 📚 학습 & 독서
+        - [ ] Article / Book 10 minutes read  
+
+        ### 🏃🏻 자기관리
         - [ ] 1일 1산책
     validations:
       required: true
+
   - type: textarea
     attributes:
-      label: 🔥 Issue
-      description: 참고할 사항이 있다면 입력하세요.
+      label: 🔥 오늘의 이슈 / 어려움
+      description: 오늘 문제 풀이, 개발, 학습 중 겪은 어려움이나 기록할 이슈를 작성하세요.
+      value: |
+        - 예: DP 점화식 세우는 데 어려움이 있었다.
+        - 예: AWS 배포 중 에러 로그 확인 필요.
+
   - type: textarea
     attributes:
-      label: 🙋🏻 참고 자료
-      description: 참고할 자료가 있다면 입력하세요.
+      label: ✨ 오늘의 인사이트 / 참고 자료
+      description: 학습하면서 얻은 인사이트, 링크, 자료 등을 기록하세요.
+      value: |
+        - 링크: 
+        - 깨달은 점:
+        - 내일 개선할 부분:
