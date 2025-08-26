@@ -1,0 +1,14 @@
+name: "🧩 알고리즘 문제 풀이"
+description: "하루에 푼 알고리즘 문제 커밋 링크를 기록하는 템플릿"
+
+body:
+  - type: textarea
+    attributes:
+      label: 🔗 문제 풀이 커밋 링크
+      description: "풀었던 문제의 커밋 URL을 여러 줄로 적어주세요."
+      value: |
+        - [ ] https://github.com/<user>/<repo>/commit/커밋SHA1
+        - [ ] https://github.com/<user>/<repo>/commit/커밋SHA2
+        - [ ] ...
+    validations:
+      required: true
