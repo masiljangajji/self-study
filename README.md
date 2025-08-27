@@ -1,6 +1,6 @@
 Issue를 올리기 위한 Repsotiroy입니다.
 
-[masiljangajji 프로젝트](https://github.com/users/masiljangajji/projects/1)
+[self-study 프로젝트](https://github.com/users/masiljangajji/projects/1)
 
 다음과 같이 Roadmap을 통해 일정관리를 하며 학습 내용을 정리합니다.
 
