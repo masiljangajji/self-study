@@ -8,12 +8,12 @@ body:
       description: 오늘 진행할 문제/작업을 체크박스로 관리하세요.
       value: |
         ### 📘 알고리즘
-        - [ ] PS 3 Solve  
+        - [ ] PS 2 Solve  
 
-        ### 💻 백엔드 개발
+        ### 💻 백엔드 개발 or 교재 작업 또는 수업 준비
         - [ ] Java / Spring 1 Commit  
 
-        ### 📚 학습 & 독서
+        ### 📚 학습 & 독서 or 교재 작업 또는 수업 준비
         - [ ] Article / Book 15 minutes read  
 
         ### 🏃🏻 자기관리
